@@ -1,0 +1,6 @@
+= Ren'Py Util Requirement
+
+Simple utility file that adds functions for requiring various things about given
+values.
+
+Intended to be used in other projects.
