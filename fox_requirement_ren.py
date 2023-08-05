@@ -135,3 +135,4 @@ def fox_require_str(name: str, value: str) -> str:
         return value
     else:
         raise Exception(f'"{name}" must be a string value')
+
