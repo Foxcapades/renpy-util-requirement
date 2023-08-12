@@ -10,6 +10,6 @@ build:
 	@mkdir -p build
 	@cp license fox-requirement-license
 	@zip -9r build/fox-requirement-$(GIT_TAG).zip \
-		game/lib/fxcpds \
+		fox_requirement_ren.py \
 		fox-requirement-license
 	@rm fox-requirement-license
